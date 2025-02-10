@@ -10,7 +10,7 @@ Present -> Distortion/Saturation
 Future -> Delay/Reverb
 
 
-### Physical interface to be based on tapping cards. RNBO patch will export to a Rasp. Pi.
+#### Physical interface to be based on tapping cards. RNBO patch will export to a Rasp. Pi.
 
 
 ## Resources:
