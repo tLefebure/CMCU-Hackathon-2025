@@ -14,5 +14,7 @@ Future -> Delay/Reverb
 ## Resources:
 
 RNBO to Rasp. Pi Vid - https://youtu.be/oYBGYqhbRR4
+
 RNBO to Rasp. Pi Docs - https://rnbo.cycling74.com/learn/configuring-audio-on-the-raspberry-pi?v=1.2.0
+
 RNBO Hot Swapping Patchers - https://youtu.be/cjSalV4M8ws
