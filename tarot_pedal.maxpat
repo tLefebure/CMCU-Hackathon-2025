@@ -4,13 +4,13 @@
 		"appversion" : 		{
 			"major" : 9,
 			"minor" : 0,
-			"revision" : 0,
+			"revision" : 4,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 170.0, 87.0, 1000.0, 688.0 ],
+		"rect" : [ 229.0, 216.0, 1000.0, 688.0 ],
 		"gridonopen" : 2,
 		"gridsize" : [ 15.0, 15.0 ],
 		"gridsnaponopen" : 2,
@@ -345,7 +345,7 @@
 										"filename" : "tarot_pedal.maxsnap",
 										"filepath" : "~/Documents/Max 9/Snapshots",
 										"filepos" : -1,
-										"snapshotfileid" : "b350c4537650ce0c8b0e88b2c339a7ca"
+										"snapshotfileid" : "58c379ce0f87ddac7d2eac95faffdfe3"
 									}
 
 								}
@@ -398,7 +398,7 @@
 
 			}
  ],
-		"originid" : "pat-6",
+		"originid" : "pat-180",
 		"parameters" : 		{
 			"obj-1" : [ "rnbo~[1]", "rnbo~", 0 ],
 			"parameterbanks" : 			{
@@ -416,13 +416,13 @@
 		"dependency_cache" : [ 			{
 				"name" : "tarot_pedal.maxsnap",
 				"bootpath" : "~/Documents/Max 9/Snapshots",
-				"patcherrelativepath" : "../../Max 9/Snapshots",
+				"patcherrelativepath" : "../../Documents/Max 9/Snapshots",
 				"type" : "mx@s",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "tarot_pedal.rnbopat",
-				"bootpath" : "~/Documents/GitHub/CMCU-Hackathon-2025",
+				"bootpath" : "~/Desktop/CMCU-Hackathon-2025",
 				"patcherrelativepath" : ".",
 				"type" : "RBOP",
 				"implicit" : 1
